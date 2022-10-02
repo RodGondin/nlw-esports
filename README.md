@@ -9,5 +9,4 @@
 
 + HTML
 + CSS
-+ Javascript
 + Github
